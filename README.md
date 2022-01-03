@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=brunocordioli072)
 
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="450" height="320" />
   
 **Languages and Tools:**  
 
@@ -22,4 +22,4 @@
 
 
 <p>📈 My GitHub Stats</p>
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=brunocordioli072&show_icons=true&theme=gotham" />
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=arctouch-brunocordioli&show_icons=true&theme=gotham" />
