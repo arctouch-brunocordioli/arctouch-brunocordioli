@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/bruno-cordioli-machado-4b2a47180/">
+<a href="https://www.linkedin.com/in/brunocordioli072">
   <img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://www.codewars.com/users/brunocordioli072">
@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=brunocordioli072)
 
 
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="400" height="320" />
   
 **Languages and Tools:**  
 
@@ -21,7 +21,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 
-<p>📈 My GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=brunocordioli072&show_icons=true&theme=gotham" />
-
-</details>
+<p>📈 My GitHub Stats</p>
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=brunocordioli072&show_icons=true&theme=gotham" />
