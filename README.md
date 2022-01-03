@@ -6,10 +6,7 @@
   <img align="left" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=brunocordioli072)
-
-
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/ZB51OifyX0fnOl3uc2/giphy.gif" width="450" height="320" />
   
 **Languages and Tools:**  
 
